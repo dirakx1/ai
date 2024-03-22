@@ -11,6 +11,7 @@
 #### LLM: large lenguaje model            -- Generative AI  Image 2 text, image 2 image.
 
 # Notes
+Transfer learning (TL) and Fine Tunning (FT)
 ## Seq data arch
 * RNN: Recurrent neural network (short time memory)  ---  Old AI arch sequence data
 * lstm short to long memory                          ---  Old AI arch sequence data
@@ -21,6 +22,8 @@
 * encoder (LLM) - decoder but with embeddings
 
 * Discriminative models (supervised learning)
-* Generative models (LLMS) (unsupervised learning, then supervised fine tunning and then reinformence learning) and with these various LLMS were created. 
+* Generative models (LLMS) (unsupervised learning, then supervised fine tunning and then reinformence learning) and with these various LLMS were created.
+* AI 21 lab alternative to GTP 
+* 
 
 
