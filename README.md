@@ -1,4 +1,5 @@
 ---- AI ----
+------------
 # Machine learning
 ## Deep learning components :
 ### Generative AI (subset of deep learning)
