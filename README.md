@@ -19,4 +19,7 @@
 ## Transformer arch (attention all you need,embedding attention)
 * encoder (LLM) - decoder but with embeddings
 
+* Discriminative models (supervised learning)
+* Generative models (LLMS) (unsupervised learning, then supervised fine tunning and then reinformence learning) and with these various LLMS were created. 
+
 
