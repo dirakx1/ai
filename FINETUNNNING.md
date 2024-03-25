@@ -11,4 +11,7 @@
 
 * The pile. opensource pretrainning data.
 * pre-trainning -- base model -- Finetune -- finetune model.
-* Finetuning can also have the same kind of unlabeled data  or also labeled or structured data.  
+* Finetuning can also have the same kind of unlabeled data  or also labeled or structured data.
+
+# instruction finetunning
+
