@@ -18,3 +18,6 @@
 * Type of finetunning
 * Turns GPT to ChatGPT (teaches the model to recieve instructions)
 
+# Data preparartion
+* 
+
