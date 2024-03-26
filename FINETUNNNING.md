@@ -11,6 +11,10 @@
 * The pile. opensource pretrainning data.
 * pre-trainning -- base model -- Finetune -- finetune model.
 * Finetuning can also have the same kind of unlabeled data  or also labeled or structured data.
+## Finetunning steps
+* Data prep -- trainning -- evaluation (iterative)
 
 # Instruction finetunning
+* Type of finetunning
+* Turns GPT to ChatGPT (teaches the model to recieve instructions)
 
