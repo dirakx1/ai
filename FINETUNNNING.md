@@ -18,6 +18,13 @@
 * Type of finetunning
 * Turns GPT to ChatGPT (teaches the model to recieve instructions)
 
-# Data preparartion
-* 
+# Data preparation
+* preparing data for trainning (fine tunning)
+* higher quality, real, diversity, more.
+## steps:
+* 1. collect instruction-response pairs
+  2. concatenate pairs
+  3. tokenize: Pad, truncate (right size going into the model) 
+  4. split into train / test data.
+  
 
