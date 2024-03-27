@@ -24,7 +24,11 @@
 ## steps:
 * 1. collect instruction-response pairs
   2. concatenate pairs
-  3. tokenize: Pad, truncate (right size going into the model) 
+  3. tokenize: Pad, truncate (right size going into the model) , convert text to numbers and numbers to text (encode, decode) , there are different tokenizers for each model. 
   4. split into train / test data.
+ 
+# Trainning the model. 
+
+
   
 
