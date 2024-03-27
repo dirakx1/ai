@@ -28,6 +28,7 @@
   4. split into train / test data.
  
 # Trainning the model. 
+* using Lamini library.
 
 
   
