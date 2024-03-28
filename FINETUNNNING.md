@@ -1,9 +1,19 @@
 # Fine tunning LLMS
+*  Figure out your task
+*  Collect data related to your task inputs / outputs (strutured as such)
+*  you can generate data if you dont have
+*  finetune an small model (400m - 1b)
+*  vary the ammout of data
+*  evaluate your llm to know whats going well vs no
+*  collect more data to improve.
+*  increase data complexity
+*  Increase model size for performance. 
 *  More data and computing, but more exactitude.
 *  stop hallucinations, concistence,performance
 *  Privacy (on premises, vpc, prevent leakage)
 *  Fine tunning and smaller llm can reduce cost for applications that require more requests.
 *  Low latency
+
 ## Finetuning libs
 * Pytorch (meta)
 * Huggingface
@@ -29,6 +39,17 @@
  
 # Trainning the model. 
 * using Lamini library.
+
+# Evaluation and iteration 
+* human evaluation -- prefered method
+* test dataset
+* Evaluation method (elutherai)
+  ARC set of grade school questions
+  HellaSwag a set of common sense
+  MMLU multitaks metric coveric elemental math, american history, computer science
+  TruthfulQA evaluates a module propensity to propagate falsehoods found online
+* Another evaluation method is error analysis: cathegorize errors for example misspelling, too-long, repetitive.
+   
 
 
   
