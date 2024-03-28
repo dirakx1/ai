@@ -49,6 +49,15 @@
   MMLU multitaks metric coveric elemental math, american history, computer science
   TruthfulQA evaluates a module propensity to propagate falsehoods found online
 * Another evaluation method is error analysis: cathegorize errors for example misspelling, too-long, repetitive.
+# Finetunning techniques. 
+* Harder tasks could require larger models
+* combinations of task could also be harder
+* Having an agent
+* model sizes need more computing resources.
+* PEFT: parameter eficient finetunning (more efficience on trainning) or example LoRa (lo range adaptation.
+  
+
+
    
 
 
