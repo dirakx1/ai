@@ -43,7 +43,7 @@
 # Evaluation and iteration 
 * human evaluation -- prefered method
 * test dataset
-* Evaluation method (elutherai)
+* Evaluation method (eleutherai)
   ** ARC set of grade school questions
   ** HellaSwag a set of common sense
   ** MMLU multitaks metric coveric elemental math, american history, computer science
