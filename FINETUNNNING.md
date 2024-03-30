@@ -44,10 +44,10 @@
 * human evaluation -- prefered method
 * test dataset
 * Evaluation method (elutherai)
-  ARC set of grade school questions
-  HellaSwag a set of common sense
-  MMLU multitaks metric coveric elemental math, american history, computer science
-  TruthfulQA evaluates a module propensity to propagate falsehoods found online
+  ** ARC set of grade school questions
+  ** HellaSwag a set of common sense
+  ** MMLU multitaks metric coveric elemental math, american history, computer science
+  ** TruthfulQA evaluates a module propensity to propagate falsehoods found online
 * Another evaluation method is error analysis: cathegorize errors for example misspelling, too-long, repetitive.
 # Finetunning techniques. 
 * Harder tasks could require larger models
