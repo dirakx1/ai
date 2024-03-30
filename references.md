@@ -29,5 +29,6 @@
 * Replicate
 * HuggingFace
   
-* 
+# Evaluation
+* https://www.eleuther.ai/
   
