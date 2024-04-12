@@ -5,8 +5,8 @@ It comes from MLOPs framework
 * Mllops for LLMs (LLMops) is different than LLM system design
 ## LLMops: 
 * experimenting FM,
-* promp desing and management, s
-* upervised-tunning,
+* prompt desing and management,
+* supervised-tunning,
 * monitoring,
 * evaluation
 
