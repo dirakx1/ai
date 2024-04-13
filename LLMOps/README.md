@@ -18,4 +18,13 @@ It comes from MLOPs framework
 ## LLmops pipeline
 * Data preparation and versioning --- Pipeline desing (supervised tunning) --- Artifact (file with configuration and workflow) --- then pipeline execution - deploy llms -- propmting and predictions --- responsible aI (check the repsonse) 
  * Key concepts: Orquestration (step by step definition) and automation
+### File formats for train and evaluation
+*  JSONL (small to medium datasrts)
+*  TFrecort (bin)
+*  Parquet file (bin)
+*  Versionning artifacts
+
+
+
+  
     
