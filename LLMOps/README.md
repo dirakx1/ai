@@ -12,6 +12,10 @@ It comes from MLOPs framework
 
 ## LLM system desing: 
 * Chainnig LLMs,
-* grounding (make sure that LLM has the relevant informatio for the output that you desired),
+* grounding (make sure that LLM has the relevant information for the output that you desired),
 * track history
-  
+* Model customization: data prep, tunning, evaluate.
+## LLmops pipeline
+* Data preparation and versioning --- Pipeline desing (supervised tunning) --- Artifact (file with configuration and workflow) --- then pipeline execution - deploy llms -- propmting and predictions --- responsible aI (check the repsonse) 
+ * Key concepts: Orquestration (step by step definition) and automation
+    
