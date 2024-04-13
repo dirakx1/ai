@@ -20,9 +20,14 @@ It comes from MLOPs framework
  * Key concepts: Orquestration (step by step definition) and automation
 ### File formats for train and evaluation
 *  JSONL (small to medium datasrts)
-*  TFrecort (bin)
+*  TFrecord (bin)
 *  Parquet file (bin)
 *  Versionning artifacts
+
+
+## Automation and orchestrtion with pipelines. 
+* Kubeflow pipelines
+* 
 
 
 
