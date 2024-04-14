@@ -26,8 +26,17 @@ It comes from MLOPs framework
 
 
 ## Automation and orchestrtion with pipelines. 
-* Kubeflow pipelines
-* 
+* Kubeflow pipelines or Apache Ariflow
+* Tranning - evaluation (varous times)
+* Production data -- Trainned model -- prediction -- evaluation -- Can change train data
+
+## ops
+* Package, deploy and versionning
+* Model momitoring: metrics and safety
+* Inference scalability: Load test, controlled rollout etc
+* Latency: Permitted latency -- smaller models - faster processig (gpus, tpus) -- deploy regionally
+* prediction (prompts)
+* evaluation  (safety scores, citation, performance metrics..) 
 
 
 
