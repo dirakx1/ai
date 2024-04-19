@@ -19,11 +19,10 @@ Transfer learning (TL) and Fine Tunning (FT)
 ## Encoder - decoder arch
 * Enconder (rnn,  lstm, gru) - decoder (rnn,  lstm, gru) arch seq to seq.
 ## Transformer arch (attention all you need,embedding attention)
-* encoder (LLM) - decoder but with embeddings
-
+* Encoder (LLM) - decoder but with embeddings
 * Discriminative models (supervised learning)
 * Generative models (LLMS) (unsupervised learning, then supervised fine tunning and then reinformence learning) and with these various LLMS were created.
 * AI 21 lab alternative to GTP 
-* 
+  
 
 
