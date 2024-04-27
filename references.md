@@ -31,4 +31,5 @@
   
 # Evaluation
 * https://www.eleuther.ai/
+* https://www.vals.ai/
   
