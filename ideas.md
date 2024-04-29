@@ -1,2 +1,2 @@
-* power consumption of models
-* 
+* Power consumption of models
+* Khan
