@@ -31,5 +31,8 @@
   
 # Evaluation
 * https://www.eleuther.ai/
+
+# Bedrock
+* https://github.com/build-on-aws/content/blob/main/posts/amazon-bedrock-quick-start/index.md
 * https://www.vals.ai/
   
