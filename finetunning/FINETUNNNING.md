@@ -55,6 +55,8 @@
 * Having an agent
 * model sizes need more computing resources.
 * PEFT: parameter eficient finetunning (more efficience on trainning) or example LoRa (lo range adaptation).
+* Frrezing layers
+* LOra: Low Rank adpatation of LLMs
   
 
 
