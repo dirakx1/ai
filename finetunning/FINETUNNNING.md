@@ -54,9 +54,9 @@
 * Combinations of task could also be harder
 * Having an agent
 * model sizes need more computing resources.
-* PEFT: parameter eficient finetunning (more efficience on trainning) or example LoRa (lo range adaptation).
-* Frrezing layers
-* LOra: Low Rank adpatation of LLMs
+* PEFT: parameter eficient finetunning (more efficience on trainning) or example LoRa (low range adaptation).
+* Freezing layers
+
   
 
 
