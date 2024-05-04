@@ -36,4 +36,8 @@
 # Bedrock
 * https://github.com/build-on-aws/content/blob/main/posts/amazon-bedrock-quick-start/index.md
 
+# Finetunning
+* Together.ai
+* answer.ai
+
   
