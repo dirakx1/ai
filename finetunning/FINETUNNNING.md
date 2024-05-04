@@ -56,6 +56,8 @@
 * model sizes need more computing resources.
 * PEFT: parameter eficient finetunning (more efficience on trainning) or example LoRa (low range adaptation).
 * Freezing layers
+* Reinformcement Learning with Human feeadback or RLHF (DPO directe preference optimize optimization)
+* For larger llama models: Qlora and freeze layers
 
   
 
