@@ -17,5 +17,14 @@
 * Uses paged attention
 
 # deep speed mii
+# adding lora and slora adapters to serve llms (HF)
+* S-lora thousands of lora adapters (still needs inprovements?
+
+# Serving Llama with vendors
+* grog cloud
+* others..
+
+* 
+
 
 
