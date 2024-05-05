@@ -1,13 +1,13 @@
 # Whats is the needed GPU MEM for running a LLM
-* fitting models into the ram:  precision x mode parameters) .
+* fitting models into the ram:  precision x # model parameters) .
 
 # Quntization
-* allows to run more powerful models in less RAM
+* Allows to run more powerful models in less RAM
 * allows train larger model
 * Reduce energy consumption
-* bsically allows to train models with less precission but the output has the same performance.
+* basically allows to train models with less precision but the output has the same performance.
 
-# TGI 
+# TGI (HF)
 * Text generation inference.
 * allows to serve many LLMs, for example llama 70b
 * Rust gRPC inrterface to GPUs
@@ -15,6 +15,7 @@
 
 # vLLM
 * Uses paged attention
+* Seems the easiest one if you want to serve your own model. 
 
 # deep speed mii
 # adding lora and slora adapters to serve llms (HF)
