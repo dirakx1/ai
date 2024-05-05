@@ -9,4 +9,13 @@
 
 # TGI 
 * Text generation inference.
-* allows to serve many LLM, for example llama 70b
+* allows to serve many LLMs, for example llama 70b
+* Rust gRPC inrterface to GPUs
+* Used by Hugging Face
+
+# vLLM
+* Uses paged attention
+
+# deep speed mii
+
+
