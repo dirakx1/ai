@@ -1,4 +1,8 @@
 # Running Ai models on device (mobil, iot dorn, robot etc)
+## Advantages:
+* privacy
+* costs
+* efficiency
 
 * Qualcomm ai hub
 * image segmentation models like FFNEt
