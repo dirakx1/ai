@@ -1,4 +1,4 @@
-# Running Ai models on device (mobil, iot, drone, robot etc)
+# Running AI models on device (mobile, iot, drone, robot etc)
 Smaller models for specific tasks. 
 has device in loop deployments.
 
