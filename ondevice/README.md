@@ -10,5 +10,13 @@ has device in loop deployments.
 ## Qualcomm ai hub
 * image segmentation models like FFNET
 
+## Steps
+* Graph Capture, trained model
+* Compile for target device
+* Validate on device 
+* Performance profile on device (GPU / CPU / NPU)
+  
+
+
 
 
