@@ -58,7 +58,7 @@
 * Freezing layers
 * Reinformcement Learning with Human feeadback or RLHF (DPO directe preference optimize optimization)
 * For larger llama models: Qlora and freeze layers Or use third parthy vendors like Together.ai
- 
+* You might need 20-30 iteration to have better results.  
 
   
 
