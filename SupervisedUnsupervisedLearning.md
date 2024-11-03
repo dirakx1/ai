@@ -5,9 +5,9 @@ Examples:
 * spam filtering
 * Speech recognition
 * Machine translation 
-* online advertiing 
+* online advertising 
 * Self driving car. 
-* visula inspection 
+* visual inspection 
 
 Training the model for input/output
 they read functions like regressions (pedict a number for infinite numbers) 
