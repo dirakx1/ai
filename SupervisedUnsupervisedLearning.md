@@ -14,6 +14,8 @@ they read functions like regressions (pedict a number for infinite numbers)
 Also they deal with classification. 
 labeled data
 ### Regression
+* Linear regression
+* 
 ### Classification
 * Types of breast tumors (benigne or malignant) 
 * types of photos (cat or dogs)
