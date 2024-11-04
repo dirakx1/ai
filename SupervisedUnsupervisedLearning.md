@@ -26,7 +26,7 @@ labeled data
 * anomaly detection
 * dimensionality reduction
 * 
-### Example
+### Examples
 * google news, cluster of similar news 
 * DNW microarray data .. clustering people with certaing genes. 
 * grouping types of customers 
