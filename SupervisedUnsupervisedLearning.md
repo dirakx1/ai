@@ -20,7 +20,10 @@ labeled data
 
 ## Unsupervised learning
 * find pattern on not labeled data
-* clusters data algoritm 
+* clusters data algoritm
+* anomaly detection
+* dimensionality reduction
+* 
 ### Example
 * google news, cluster of similar news 
 * DNW microarray data .. clustering people with certaing genes. 
