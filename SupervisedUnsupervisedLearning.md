@@ -20,7 +20,8 @@ labeled data
 #### Linear Regression
 * Price of houses vs size
 * provides right answer
-* 
+* univariate linnear regression
+  
 ### Classification
 * Types of breast tumors (benigne or malignant) 
 * types of photos (cat or dogs)
@@ -28,8 +29,8 @@ labeled data
 
 #### Notation
 * Training data set
-* x (input)
-* y (output)
+* x (input or features)
+* y (output or targets)
 
 ## Unsupervised learning
 * find pattern on not labeled data
