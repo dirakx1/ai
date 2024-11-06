@@ -6,7 +6,7 @@ Examples:
 * Speech recognition
 * Machine translation 
 * online advertising 
-* Self driving car. 
+* Self driving car 
 * visual inspection 
 
 Training the model for input/output
