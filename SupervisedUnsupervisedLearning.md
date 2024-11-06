@@ -14,11 +14,22 @@ they read functions like regressions (pedict a number for infinite numbers)
 Also they deal with classification. 
 labeled data
 ### Regression
-* Linear regression
+* Linear regression model (give data to your model , supervised learning model)+
+* infinite outputs
+
+#### Linear Regression
+* Price of houses vs size
+* provides right answer
 * 
 ### Classification
 * Types of breast tumors (benigne or malignant) 
 * types of photos (cat or dogs)
+* Categorization (small number of outputs or discrete)
+
+#### Notation
+* Training data set
+* x (input)
+* y (output)
 
 ## Unsupervised learning
 * find pattern on not labeled data
