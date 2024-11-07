@@ -21,6 +21,8 @@ labeled data
 * Price of houses vs size
 * provides right answer
 * univariate linnear regression
+#### Cost function
+* A linear function of the type f = wx + b (w, b parameters or weights)
   
 ### Classification
 * Types of breast tumors (benigne or malignant) 
