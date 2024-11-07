@@ -23,6 +23,7 @@ labeled data
 * univariate linnear regression
 #### Cost function
 * A linear function of the type f = wx + b (w, b parameters or weights)
+* the goal is to minimize that cost function
   
 ### Classification
 * Types of breast tumors (benigne or malignant) 
