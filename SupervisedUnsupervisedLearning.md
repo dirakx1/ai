@@ -24,6 +24,13 @@ labeled data
 #### Cost function
 * A linear function of the type f = wx + b (w, b parameters or weights)
 * the goal is to minimize that cost function (this is done via gradient descent)
+
+#### Multiple features
+* multiple Xs (variables) X1 X2..Xy.
+* vectors
+* multiple linear regression
+* Scalling of features (or x)
+* Gradient decent. 
   
 ### Classification
 * Types of breast tumors (benigne or malignant) 
