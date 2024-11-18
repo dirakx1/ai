@@ -36,6 +36,7 @@ labeled data
 * Types of breast tumors (benigne or malignant) 
 * types of photos (cat or dogs)
 * Categorization (small number of outputs or discrete)
+  
 #### Logical regression algorithm (used for calssification, dont be confused by the name)
 * new cost function (with loss)
 * new gradient descent
@@ -46,7 +47,9 @@ labeled data
 * y (output or targets)
 
 #### Underfit / overfit 
-* problems with algoritms. that dont generalize well 
+* problems with algoritms. that dont generalize well
+* To avoid there are many techniques like having more data, selecting fetures or inputs.
+* Regularization of inputs: make w3 .. wn polinomials small 
 
 ## Unsupervised learning
 * find pattern on not labeled data
