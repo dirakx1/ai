@@ -38,12 +38,15 @@ labeled data
 * Categorization (small number of outputs or discrete)
 #### Logical regression algorithm (used for calssification, dont be confused by the name)
 * new cost function (with loss)
-* new gradientr descent
+* new gradient descent
 
 #### Notation
 * Training data set
 * x (input or features)
 * y (output or targets)
+
+#### Underfit / overfit 
+* problems with algoritms. that dont generalize well 
 
 ## Unsupervised learning
 * find pattern on not labeled data
