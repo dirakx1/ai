@@ -36,6 +36,9 @@ labeled data
 * Types of breast tumors (benigne or malignant) 
 * types of photos (cat or dogs)
 * Categorization (small number of outputs or discrete)
+#### Logical regression algorithm (used for calssification, dont be confused by the name)
+* new cost function (with loss)
+* new gradientr descent
 
 #### Notation
 * Training data set
