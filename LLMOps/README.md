@@ -25,7 +25,7 @@ It comes from MLOPs framework
 *  Versionning artifacts
 
 
-## Automation and orchestrtion with pipelines. 
+## Automation and orchestration with pipelines. 
 * Kubeflow pipelines or Apache Ariflow
 * Tranning - evaluation (varous times)
 * Production data -- Trainned model -- prediction -- evaluation -- Can change train data
@@ -36,7 +36,8 @@ It comes from MLOPs framework
 * Inference scalability: Load test, controlled rollout etc
 * Latency: Permitted latency -- smaller models - faster processig (gpus, tpus) -- deploy regionally
 * prediction (prompts)
-* evaluation  (safety scores, citation, performance metrics..) 
+* evaluation  (safety scores, citation, performance metrics..)
+* Guartrials.ai
 
 
 
